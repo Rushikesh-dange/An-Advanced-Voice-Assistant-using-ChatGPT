@@ -6,7 +6,7 @@ VoiceGPT is a project that transforms OpenAI's ChatGPT into a voice assistant, a
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- 
+  
 ## Introduction
 
 VoiceGPT combines the power of ChatGPT with voice recognition and speech synthesis to create an interactive voice assistant. This project is ideal for anyone looking to experiment with voice-enabled AI and explore how to integrate ChatGPT with NLP technologies.
