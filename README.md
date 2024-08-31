@@ -31,9 +31,3 @@ VoiceGPT combines the power of ChatGPT with voice recognition and speech synthes
 - [OpenAI API Key](https://platform.openai.com/signup)
 - Internet connection for API access
 
-## Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/VoiceGPT.git
-cd VoiceGPT
